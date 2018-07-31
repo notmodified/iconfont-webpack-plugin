@@ -1,3 +1,47 @@
+# Change Log
+
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+<a name="3.0.0"></a>
+# [3.0.0](https://github.com/jantimon/iconfont-webpack-plugin/compare/v2.0.0...v3.0.0) (2018-06-20)
+
+
+### Features
+
+* **icon-generation:** Add new option enforcedSvgHeight to improve the icon quality ([efed575](https://github.com/jantimon/iconfont-webpack-plugin/commit/efed575)), closes [#21](https://github.com/jantimon/iconfont-webpack-plugin/issues/21)
+
+
+### BREAKING CHANGES
+
+* **icon-generation:** SVGs are now scaled by default
+
+
+
+<a name="2.0.0"></a>
+# [2.0.0](https://github.com/jantimon/iconfont-webpack-plugin/compare/v1.2.0...v2.0.0) (2018-05-08)
+
+
+### Features
+
+* Add font-icon-glyph ([#12](https://github.com/jantimon/iconfont-webpack-plugin/issues/12)) ([754af99](https://github.com/jantimon/iconfont-webpack-plugin/commit/754af99)), closes [#8](https://github.com/jantimon/iconfont-webpack-plugin/issues/8)
+
+
+### BREAKING CHANGES
+
+* Font smoothing is changed to improve the icon quality
+
+
+
+<a name="1.2.0"></a>
+# [1.2.0](https://github.com/jantimon/iconfont-webpack-plugin/compare/v1.1.0...v1.2.0) (2018-03-23)
+
+
+### Features
+
+* Add support for Webpack 4 ([56ea1ce](https://github.com/jantimon/iconfont-webpack-plugin/commit/56ea1ce))
+
+
+
 <a name="1.1.0"></a>
 # [1.1.0](https://github.com/jantimon/iconfont-webpack-plugin/compare/v1.0.0...v1.1.0) (2017-08-04)
 
